@@ -1,0 +1,8 @@
+Model Information:
+* title:	15th Century Long Sword
+* source:	https://sketchfab.com/3d-models/15th-century-long-sword-a160126f11574b0a85bb8e4ba0b07a2f
+* author:	bossdeff (https://sketchfab.com/bossdeff)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
